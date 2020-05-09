@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/003-interview.iml" filepath="$PROJECT_DIR$/.idea/003-interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-arrary/my-arrary.iml" filepath="$PROJECT_DIR$/my-arrary/my-arrary.iml" />
+    </modules>
+  </component>
+</project>
