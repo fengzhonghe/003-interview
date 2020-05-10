@@ -3,7 +3,9 @@ package com.sy.myarray;
 public class NoConfirmFunction_Branch {
 
     public static void main(String[] args) {
-        noConfirmFunction();// conflict  by li .
+
+        noConfirmFunction();// fist merge conflict  by li .
+
 }
 
 
