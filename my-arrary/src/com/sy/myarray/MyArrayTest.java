@@ -67,5 +67,14 @@ public class MyArrayTest {
         }
     }
 
+    /*
+     *问题1：
+     *  git clone代码后， java文件无法识别问题：build 一下即可
+     * 问题2：
+     *  git中两个不同开发成员是以什么来确定的？  不同电脑？还是不同秘钥？ 还是？
+     *
+     * */
+
+
 
 }
